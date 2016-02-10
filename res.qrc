@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>TR_Label.qml</file>
+    </qresource>
+</RCC>
